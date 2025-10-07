@@ -6,9 +6,7 @@ import pandas as pd
 '''
 Load the datasets
 '''
-
-
-
+df = pd.read_csv('plant_sensors.csv')
 '''
 Exercise 1.1: Array Basics
 '''
