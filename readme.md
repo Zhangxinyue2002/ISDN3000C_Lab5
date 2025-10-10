@@ -13,7 +13,6 @@ ISDN3000C_Lab5/
 ├── part2.py               # Data preprocessing and pandas operations
 ├── part3.py               # Data visualization with matplotlib
 ├── final_challenge.ipynb  # Comprehensive sensor fault detection analysis
-├── plant_sensors.csv      # Generated sensor data (5 sensors, July 2023)
 ├── questions.md           # Lab exercise answers and explanations
 ├── requirements.txt       # Python dependencies
 └── readme.md             # This file
